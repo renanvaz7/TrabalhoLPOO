@@ -52,7 +52,7 @@ namespace SistemaDeGerenciamentoDeEstoque
             Console.WriteLine("Produto: IdProduto: " + produto.IdProduto);
             Console.WriteLine("Descrição         : " + produto.descricao);
             Console.WriteLine("Preço Unitário    : " + produto.precoUnitario);
-            Console.WriteLine("Categoria         : " + produto.categoria.descricao);
+            Console.WriteLine("Categoria         : " + produto.categoria.Descricao);
 
             
 
